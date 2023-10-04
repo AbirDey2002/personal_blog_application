@@ -25,7 +25,7 @@ const PostPage = (props: any) => {
     <div>
       <div className="my-12 text-center">
         <h1 className="text-2xl text-slate-600 dark:text-white ">{post.data.title}</h1>
-        <p className="text-slate-400 dark: text-slate-200 mt-2">{post.data.date}</p>
+        <p className="text-slate-400 dark:text-slate-200 mt-2">{post.data.date}</p>
       </div>
 
       <article className="prose dark: prose-invert">

@@ -11,7 +11,7 @@ export default function RootLayout({
   const header = (
     <header>
       <Link href="/">
-        <div className="transition ease-in-out delay-150 bg-gradient-to-r from-[#fbe2e3] to-[#dbd7fb] hover:-translate-y-1 hover:scale-105 duration-300 p-8 my-6 rounded-md text-center dark:bg-gradient-to-r from-[#183d3e] to-[#040D12]">
+        <div className="transition ease-in-out delay-150 bg-gradient-to-r from-[#fbe2e3] to-[#dbd7fb] hover:-translate-y-1 hover:scale-105 duration-300 p-8 my-6 rounded-md text-center dark:bg-gradient-to-r dark:from-[#183D3E] dark:to-[#040d12]">
           <Image
             src="/logo.png"
             width={40}
@@ -28,7 +28,7 @@ export default function RootLayout({
 
   const footer = (
     <footer>
-      <div className="border-t border-black mt-12 py-6 text-center text-black dark:border-white text-white">
+      <div className="border-t border-black mt-12 py-6 text-center text-black dark:border-white dark:text-white">
         <h3>Designed by Abir Dey</h3>
       </div>
     </footer>
