@@ -1,6 +1,6 @@
 ---
 title: "Sign Language Recognition Using OpenCV and CNN"
-subtitle: "In this blog we will build a sign language detection model based on convolutional neural networks."
+subtitle: "In this blog we will build ..."
 date: "2023-01-11"
 ---
 
