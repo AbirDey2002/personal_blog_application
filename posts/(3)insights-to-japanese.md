@@ -12,7 +12,7 @@ If you search up why should one learn Japanese on google, the first prompt that 
 
 ## Why did I?
 
-Yesterday out university hosted a pre-placement talk with [**Zenken India**](https://www.linkedin.com/company/zenkenindia/) for the final year B. tech students for an opportunity to learn the Japanese language, the people and most importantly work over there. Our placement head, Shriram sir told us, day before yesterday to visit the campus, attend the ppt, it will be a _life changing_ opportunity.
+Yesterday our university hosted a pre-placement talk with [**Zenken India**](https://www.linkedin.com/company/zenkenindia/) for the final year B. tech students for an opportunity to learn the Japanese language, the people and most importantly work over there. Our placement head, Shriram sir told us, day before yesterday to visit the campus, attend the ppt, it will be a _life changing_ opportunity.
 
 Obviously I attended the session, hosted by [Mr. Abhishek Gowda](https://www.linkedin.com/in/abhishek-sn-gowda-52118b88/) at **Zenken India**. The session was delightful, had some wonderful insights to what _Japan is all about_. I'll share what he told me down below but yeah, it was a lovely session overall.
 
