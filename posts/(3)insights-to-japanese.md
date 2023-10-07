@@ -1,6 +1,6 @@
 ---
 title: "Insight To Japanese"
-subtitle: "Why Learn Japanese and ..."
+subtitle: "Why should you learn japanese and how this affects you"
 date: "2023-10-07"
 ---
 
