@@ -1,3 +1,7 @@
+## Intro
+
+This is a Next.js frontend application using the static build feature for fast blogpost renders and uses tailwindcss for it's UI/UX. No additional library is used for this one. It's written in typescript. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
